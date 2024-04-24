@@ -1,0 +1,2 @@
+# item_modifier-set_written_book_pages
+item_modifierの1項目であるset_written_book_pagesのサンプルになります。
