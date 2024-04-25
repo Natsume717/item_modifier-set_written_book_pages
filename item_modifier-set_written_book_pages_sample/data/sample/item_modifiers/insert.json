@@ -1,0 +1,10 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    {
+      "text": "サンプルテキスト"
+    }
+  ],
+  "mode": "insert",
+  "offset": 0
+}

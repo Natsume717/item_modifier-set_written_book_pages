@@ -1,0 +1,11 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    {
+      "text": "サンプルテキスト"
+    }
+  ],
+  "mode": "replace_section",
+  "offset": 0,
+  "size": 1
+}

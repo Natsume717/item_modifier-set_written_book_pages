@@ -1,0 +1,22 @@
+{
+    "function": "minecraft:set_written_book_pages",
+    "pages": [
+      {
+        "text": "sample_text"
+      },
+      {
+        "text": "sample_text"
+      },
+      {
+        "text": "sample_text"
+      },
+      {
+        "text": "sample_text"
+      },
+      {
+        "text": "sample_text"
+      }
+    ],
+    "mode": "replace_all"
+  }
+  
