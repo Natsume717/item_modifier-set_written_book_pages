@@ -1,8 +1,7 @@
 # item_modifier-set_written_book_pages
 item_modifierの1項目であるset_written_book_pagesのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_written_book_pagesでページを挿入【item_modifier】](https://natsumake.com/item_modifier-set_written_book_pages/)』を参考にしてください。
 
 <h3>概要</h3>
 記入済みの本に対して、文章（ページ）の追加を行えるものです。
